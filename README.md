@@ -9,9 +9,7 @@ vl_total – Mostra quando que o cliente possui de saldo.
 
 - Na sua aplicação, insira ‘N’ registros na tabela tb_customer_account
 
-- Após a inserção, percorra os objetos e calcule a média do campo vl_total apenas para os itens que este valor
+- Após a inserção, percorra os objetos e calcule e exiba a média do campo vl_total, utilizando apenas para os itens que este valor
 seja maior que 560 e o campo id_customer esteja entre 1500 e 2700.
-
-- Exiba a média final
 
 - Imprima cada um dos clientes utilizados para o cálculo da média em uma tabela.
